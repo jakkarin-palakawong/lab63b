@@ -15,7 +15,7 @@
 4.Serial port
 
 ## ศึกษาข้อมูลเบื้องต้น
-
+https://youtu.be/T26DVHePlTs
 
 ## วิธีการทำการทดลอง 
 1.นำไมโครคอนโทรเลอร์ต่อเข้ากับ USB to serial
