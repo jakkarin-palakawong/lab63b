@@ -14,8 +14,12 @@
 3.สาย USB
 
 4.น้ำพุแมวชนิดที่มีสายเสียบ USB
+![Automatic-Pet-Water-Feeder](https://user-images.githubusercontent.com/80880230/113147406-f16b8700-925a-11eb-8909-8d36c280e30d.png)
+
 
 5.สายพ่วง USB
+![1db7586fd6e2f22d408f3100af448208](https://user-images.githubusercontent.com/80880230/113147456-fcbeb280-925a-11eb-88af-09b135823eac.jpeg)
+
 
 6.Adapter
 
@@ -35,48 +39,8 @@ http://www.paocathotel.com/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B9%8
 ![1617192950317](https://user-images.githubusercontent.com/80880230/113144179-2ece1580-9257-11eb-90e6-b32b9be61006.jpg)
  
  โดยใส่ Delay ในช่วง ON ในช่วงที่ต้องการใส่น้ำ และช่วง OFF เว่นระยะห่างเวลาในการให้นำอีกครั้ง
- 
-#include <Arduino.h>
+![1617195241660](https://user-images.githubusercontent.com/80880230/113147374-eb75a600-925a-11eb-8c8a-2d6ffff5adf3.jpg)
 
-#include <ESP8266WiFi.h>
-
-int cnt = 0;
-
-void setup()
-
-{
-	
-	Serial.begin(115200);
-	
-	pinMode(0, OUTPUT);
-	
-	Serial.println("\n\n\n");
-	
-}
-
-void loop()
-
-{
-	
-	cnt++;
-	
-	if(cnt % 2) {
- 		
-		Serial.println("========== ON ===========");
- 		
-		digitalWrite(0, HIGH);
- 	
-	delay(10) 
-	
-	} else {
- 		
-		Serial.println("========== OFF ===========");
- 		
-		digitalWrite(0, LOW);
-	
-	delay(7200000)
-
-}
  
 4.run โปรแกรมเพื่อแสดงผล
 
