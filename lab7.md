@@ -37,6 +37,7 @@ http://www.paocathotel.com/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B9%8
  โดยใส่ Delay ในช่วง ON ในช่วงที่ต้องการใส่น้ำ และช่วง OFF เว่นระยะห่างเวลาในการให้นำอีกครั้ง
  
 #include <Arduino.h>
+
 #include <ESP8266WiFi.h>
 
 int cnt = 0;
@@ -53,8 +54,8 @@ void setup()
 	
 }
 
-
 void loop()
+
 {
 	
 	cnt++;
@@ -72,7 +73,6 @@ void loop()
 		Serial.println("========== OFF ===========");
  		
 		digitalWrite(0, LOW);
- 	
 	
 	delay(7200000)
 
