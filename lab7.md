@@ -34,16 +34,15 @@ http://www.paocathotel.com/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B9%8
 1.นำไมโครคอนโทรเลอร์ต่อเข้ากับ Adapter ที่มีสายport 0 และสายport 1 หลังจากนั้นก็นำไปต่อกับ USB to serial
 ![1](https://user-images.githubusercontent.com/80880230/112357673-562a5d00-8d02-11eb-8550-151c0d465c4b.jpg)
 
-2.อัปโหลดโปรแกรมเข้าสู่ไมโครคอนโทรเลอร์ กดปุ่มสีดำเพื่ออัปโหลดและกดปุ่มสีแดงเพื่อรีเซ็ต
-![2](https://user-images.githubusercontent.com/80880230/112358244-bfaa6b80-8d02-11eb-86b2-9a82fafa273f.jpg)
-
-3.ปรับเปลี่ยนโค้ดจาก LAB3 
+2.ปรับเปลี่ยนโค้ดจาก LAB3 
 ![1617192950317](https://user-images.githubusercontent.com/80880230/113144179-2ece1580-9257-11eb-90e6-b32b9be61006.jpg)
  
  โดยใส่ Delay ในช่วง ON ในช่วงที่ต้องการใส่น้ำ และช่วง OFF เว่นระยะห่างเวลาในการให้นำอีกครั้ง
  
 ![1617195241660](https://user-images.githubusercontent.com/80880230/113147374-eb75a600-925a-11eb-8c8a-2d6ffff5adf3.jpg)
 
+3.อัปโหลดโปรแกรมเข้าสู่ไมโครคอนโทรเลอร์ กดปุ่มสีดำเพื่ออัปโหลดและกดปุ่มสีแดงเพื่อรีเซ็ต
+![2](https://user-images.githubusercontent.com/80880230/112358244-bfaa6b80-8d02-11eb-86b2-9a82fafa273f.jpg)
  
 4.run โปรแกรมเพื่อแสดงผล
 
