@@ -42,23 +42,40 @@ http://www.paocathotel.com/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B9%8
 int cnt = 0;
 
 void setup()
+
 {
+	
 	Serial.begin(115200);
+	
 	pinMode(0, OUTPUT);
+	
 	Serial.println("\n\n\n");
+	
 }
+
 
 void loop()
 {
+	
 	cnt++;
+	
 	if(cnt % 2) {
- 		Serial.println("========== ON ===========");
- 		digitalWrite(0, HIGH);
- 	delay(10) 
+ 		
+		Serial.println("========== ON ===========");
+ 		
+		digitalWrite(0, HIGH);
+ 	
+	delay(10) 
+	
 	} else {
- 		Serial.println("========== OFF ===========");
- 		digitalWrite(0, LOW);
- 	delay(7200000)
+ 		
+		Serial.println("========== OFF ===========");
+ 		
+		digitalWrite(0, LOW);
+ 	
+	
+	delay(7200000)
+
 }
  
 4.run โปรแกรมเพื่อแสดงผล
