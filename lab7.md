@@ -26,6 +26,7 @@
 
 ## ศึกษาข้อมูลเบื้องต้น
  https://youtu.be/CCnN1WJsXQY
+ 
 http://www.paocathotel.com/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B8%A7/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B9%81%E0%B8%A1%E0%B8%A7/%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3/
 
 ## วิธีการทำการทดลอง 
@@ -39,6 +40,7 @@ http://www.paocathotel.com/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B9%8
 ![1617192950317](https://user-images.githubusercontent.com/80880230/113144179-2ece1580-9257-11eb-90e6-b32b9be61006.jpg)
  
  โดยใส่ Delay ในช่วง ON ในช่วงที่ต้องการใส่น้ำ และช่วง OFF เว่นระยะห่างเวลาในการให้นำอีกครั้ง
+ 
 ![1617195241660](https://user-images.githubusercontent.com/80880230/113147374-eb75a600-925a-11eb-8c8a-2d6ffff5adf3.jpg)
 
  
