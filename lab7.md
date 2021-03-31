@@ -39,7 +39,8 @@ http://www.paocathotel.com/%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B9%8
  
  โดยใส่ Delay ในช่วง ON ในช่วงที่ต้องการใส่น้ำ และช่วง OFF เว่นระยะห่างเวลาในการให้นำอีกครั้ง
  
-![1617195241660](https://user-images.githubusercontent.com/80880230/113147374-eb75a600-925a-11eb-8c8a-2d6ffff5adf3.jpg)
+![555](https://user-images.githubusercontent.com/80880230/113149219-f7626780-925c-11eb-91b6-6592b829c50c.jpg)
+
 
 3.อัปโหลดโปรแกรมเข้าสู่ไมโครคอนโทรเลอร์ กดปุ่มสีดำเพื่ออัปโหลดและกดปุ่มสีแดงเพื่อรีเซ็ต
 ![2](https://user-images.githubusercontent.com/80880230/112358244-bfaa6b80-8d02-11eb-86b2-9a82fafa273f.jpg)
